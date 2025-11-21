@@ -25,4 +25,8 @@ Each project lives in its own folder with:
 ## 🗂 Project List
 
 1. **Tresure Island Proect**
-    Using IF/Else Statment 
+    Using IF/Else Statment
+
+2. **Rock Paper Scissor**
+   Using If/Else statment
+
