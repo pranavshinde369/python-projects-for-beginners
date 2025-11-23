@@ -25,8 +25,8 @@ Each project lives in its own folder with:
 ## 🗂 Project List
 
 1. **Tresure Island Proect**
-    Using IF/Else Statment
 
 2. **Rock Paper Scissor**
-   Using If/Else statment
 
+3. **Caser Cipher**
+  - program that can encrypt and decrypt text by shifting each letter in the alphabet by a fixed number of positions.
