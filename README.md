@@ -30,3 +30,7 @@ Each project lives in its own folder with:
 
 3. **Caser Cipher**
   - program that can encrypt and decrypt text by shifting each letter in the alphabet by a fixed number of positions.
+
+4. **Calculator**
+
+5. **Number Guessing Game**
