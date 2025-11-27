@@ -34,3 +34,9 @@ Each project lives in its own folder with:
 4. **Calculator**
 
 5. **Number Guessing Game**
+
+6. **Self-Intro Script Generator**
+
+7. **Stylish Bio Generator for Instagram/Twitter**
+
+8. **Simple Bill Splitter**
