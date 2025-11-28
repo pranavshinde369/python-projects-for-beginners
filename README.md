@@ -40,3 +40,5 @@ Each project lives in its own folder with:
 7. **Stylish Bio Generator for Instagram/Twitter**
 
 8. **Simple Bill Splitter**
+
+9. **Daily Journel Logger**
