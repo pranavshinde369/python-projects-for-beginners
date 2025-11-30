@@ -43,4 +43,12 @@ Each project lives in its own folder with:
 
 9. **Daily Journel Logger**
 
-10.**Countdown Timmer**
+10. **Countdown Timmer**
+
+11. **CLI Contact Book (CSV-Powered)**
+
+12. **Student Marks Analyzer**
+
+13. **Personal Movie Tracker with JSON**
+
+14. **Capstone Coffee Project**
