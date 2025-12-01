@@ -52,3 +52,7 @@ Each project lives in its own folder with:
 13. **Personal Movie Tracker with JSON**
 
 14. **Capstone Coffee Project**
+
+15. **Quiz Game**
+
+16. **Snake Game**
