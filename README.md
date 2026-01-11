@@ -70,3 +70,5 @@ Each project lives in its own folder with:
 22. **Pomodoro**
 
 23. **Password Manager**
+
+24. **Kanye Quote App**
