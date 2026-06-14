@@ -1,4 +1,4 @@
-#  Python Beginner Projects to do
+#  Python Beginner Projects to do.
 
 This repository contains 20 beginner-friendly Python projects I built to learn core concepts like data types, loops, functions, OOP, file handling, APIs, `pandas`, `turtle`, and `tkinter`.
 
